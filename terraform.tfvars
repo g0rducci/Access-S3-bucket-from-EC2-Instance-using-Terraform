@@ -1,1 +1,1 @@
-region = "us-east-1"
+bucket_name = "<Your S3 Bucket name>"		

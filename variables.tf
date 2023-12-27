@@ -1,3 +1,4 @@
 variable "region" {
-description = "Region of AWS VPC"
+    default = "us-east-1"
 }
+variable "bucket_name" {}	
