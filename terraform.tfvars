@@ -1,1 +1,1 @@
-bucket_name = "<Your S3 Bucket name>"		
+bucket_name = "el nombre de mi bucket"		
